@@ -6,7 +6,7 @@ This repo collects the resources of CLIP (Contrastive Language-Image Pre-Trainin
 - CLIP: Connecting Text and Images [[blog](https://openai.com/blog/clip/)]
 - Github [[code](https://github.com/openai/CLIP)]
 
-## Training of CLIP
+## Training CLIP
 - Train-CLIP (3rd-party, PyTorch) [[code](https://github.com/Zasder3/train-CLIP)] 
 - Paddle-CLIP (3rd-party, PaddlePaddle)[[code](https://github.com/Zasder3/train-CLIP)] 
 
@@ -21,7 +21,6 @@ This repo collects the resources of CLIP (Contrastive Language-Image Pre-Trainin
 
 ## Image Retrival 
 - Unsplash Image Search [[code](https://github.com/haltakov/natural-language-image-search)]
-
 
 ## Acknowledgement
 Thanks the template from [Awesome Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer).
