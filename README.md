@@ -4,7 +4,6 @@ This repo collects the resources of CLIP (Contrastive Language-Image Pre-Trainin
 ## CLIP 
 - Learning Transferable Visual Models From Natural Language Supervision [[paper](https://arxiv.org/abs/2103.00020)][[code](https://github.com/openai/CLIP)]
 - CLIP: Connecting Text and Images [[blog](https://openai.com/blog/clip/)]
-- 
 
 ## Training CLIP
 - Train-CLIP (3rd-party, PyTorch) [[code](https://github.com/Zasder3/train-CLIP)] 
