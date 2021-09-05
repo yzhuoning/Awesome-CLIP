@@ -17,7 +17,7 @@ This repo collects the resources of CLIP (Contrastive Language-Image Pre-Trainin
 
 ### Detection
 - Roboflow Object Tracking [[code](https://github.com/roboflow-ai/zero-shot-object-tracking)] 
-- Zero-Shot Detection via Vision and Language Knowledge Distillation (3rd party) [[code](https://github.com/llrtt/Zero-Shot-Detection-via-Vision-and-Language-Knowledge-Distillation)]
+- Zero-Shot Detection via Vision and Language Knowledge Distillation [[paper](https://arxiv.org/abs/2104.13921)][[code](https://github.com/llrtt/Zero-Shot-Detection-via-Vision-and-Language-Knowledge-Distillation)](3rd party)
 
 ## Image Retrival 
 - Unsplash Image Search [[code](https://github.com/haltakov/natural-language-image-search)]
