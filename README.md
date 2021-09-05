@@ -4,6 +4,7 @@ This repo collects the resources of CLIP (Contrastive Language-Image Pre-Trainin
 ## CLIP 
 - Learning Transferable Visual Models From Natural Language Supervision [[paper](https://arxiv.org/abs/2103.00020)][[code](https://github.com/openai/CLIP)]
 - CLIP: Connecting Text and Images [[blog](https://openai.com/blog/clip/)]
+- 
 
 ## Training CLIP
 - Train-CLIP (3rd-party, PyTorch) [[code](https://github.com/Zasder3/train-CLIP)] 
@@ -14,6 +15,7 @@ This repo collects the resources of CLIP (Contrastive Language-Image Pre-Trainin
 ### GAN 
 - VQGAN-CLIP [[code](https://github.com/nerdyrodent/VQGAN-CLIP)]
 - StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery [[paper](https://arxiv.org/abs/2103.17249)][[code](https://github.com/orpatashnik/StyleCLIP)]
+- CLIP Guided Diffusion [[code](https://github.com/afiaka87/clip-guided-diffusion)] 
 
 ### Detection
 - Roboflow Object Tracking [[code](https://github.com/roboflow-ai/zero-shot-object-tracking)] 
