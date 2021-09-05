@@ -1,5 +1,5 @@
 # Awesome CLIP 
-This repo collects the resources of CLIP (Contrastive Language-Image Pre-Training) proposed by OpenAI. If you find this repo useful, please give me a star. If you would like to contribute this repo, please open issues or pull requests (recommended).
+This repo collects the resources of CLIP (Contrastive Language-Image Pre-Training) proposed by OpenAI. If you find this repo useful, please give me a star. If you would like to contribute, please open issues or pull requests or drop me an email yzhuoning@gmail.com.
 
 ## CLIP
 - Learning Transferable Visual Models From Natural Language Supervision [[link](https://arxiv.org/abs/2103.00020)]
