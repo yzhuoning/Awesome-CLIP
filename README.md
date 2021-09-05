@@ -1,36 +1,27 @@
 # Awesome CLIP 
-This repo collects the Applications of CLIP (Contrastive Language-Image Pre-Training) proposed by OpenAI. 
+This repo collects the resources of CLIP (Contrastive Language-Image Pre-Training) proposed by OpenAI. If you find this repo useful, please give me a star. If you would like to contribute this repo, please open issues or pull requests (recommended).
 
-
-
-Collect some CLIP with Computer-Vision (CV) papers.
-
-If you find some overlooked papers, please open issues or pull requests (recommended).
-
-
-
-
-
-## Original Repo
-https://openai.com/blog/clip/
-
+## CLIP
+- Learning Transferable Visual Models From Natural Language Supervision [[link](https://arxiv.org/abs/2103.00020)]
+- CLIP: Connecting Text and Images [[blog](https://openai.com/blog/clip/)]
+- Github [[code](https://github.com/openai/CLIP)]
 
 ## Training of CLIP
 - Train-CLIP (3rd-party, PyTorch) [[code](https://github.com/Zasder3/train-CLIP)] 
 - Paddle-CLIP (3rd-party, PaddlePaddle)[[code](https://github.com/Zasder3/train-CLIP)] 
 
 ## Applications
-- VQGAN-CLIP (https://github.com/nerdyrodent/VQGAN-CLIP)
 
-## Detection
+### GAN 
+- VQGAN-CLIP [[code](https://github.com/nerdyrodent/VQGAN-CLIP)]
+
+### Detection
 - Roboflow Object Tracking [[code](https://github.com/roboflow-ai/zero-shot-object-tracking)] 
 - Zero-Shot Detection via Vision and Language Knowledge Distillation (3rd party) [[code](https://github.com/llrtt/Zero-Shot-Detection-via-Vision-and-Language-Knowledge-Distillation)]
 
 ## Image Retrival 
 - Unsplash Image Search [[code](https://github.com/haltakov/natural-language-image-search)]
 
-
-You are welcome to contribute this repo! Please contact yzhuoning@gmail.com or open an issue. Thanks!
 
 ## Acknowledgement
 Thanks the template from [Awesome Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer).
