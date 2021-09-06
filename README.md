@@ -10,6 +10,7 @@ This repo collects the research resources of CLIP (Contrastive Language-Image Pr
 - Train-CLIP (3rd-party, PyTorch) [[code](https://github.com/Zasder3/train-CLIP)] 
 - Paddle-CLIP (3rd-party, PaddlePaddle) [[code](https://github.com/Zasder3/train-CLIP)] 
 
+
 ## Applications
 
 ### GAN 
@@ -18,7 +19,7 @@ This repo collects the research resources of CLIP (Contrastive Language-Image Pr
 - CLIP Guided Diffusion [[code](https://github.com/afiaka87/clip-guided-diffusion)] 
 
 ### Detection
-- Roboflow Object Tracking [[code](https://github.com/roboflow-ai/zero-shot-object-tracking)] 
+- Roboflow Zero-shot Object Tracking [[code](https://github.com/roboflow-ai/zero-shot-object-tracking)] 
 - Zero-Shot Detection via Vision and Language Knowledge Distillation [[paper](https://arxiv.org/abs/2104.13921)][[code*](https://github.com/llrtt/Zero-Shot-Detection-via-Vision-and-Language-Knowledge-Distillation)]
 
 ### Information Retrieval
