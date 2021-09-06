@@ -1,5 +1,5 @@
 # Awesome CLIP 
-This repo collects the resources of CLIP (Contrastive Language-Image Pre-Training) proposed by OpenAI. If you find this repo useful, please give me a star. If you would like to contribute, please open issues or pull requests.
+This repo collects the resources of CLIP (Contrastive Language-Image Pre-Training) proposed by OpenAI. If you find this repo useful, please star this repo. If you would like to contribute, please open issues or pull requests.
 
 ## CLIP 
 - Learning Transferable Visual Models From Natural Language Supervision [[paper](https://arxiv.org/abs/2103.00020)][[code](https://github.com/openai/CLIP)]
@@ -7,7 +7,7 @@ This repo collects the resources of CLIP (Contrastive Language-Image Pre-Trainin
 
 ## Training CLIP
 - Train-CLIP (3rd-party, PyTorch) [[code](https://github.com/Zasder3/train-CLIP)] 
-- Paddle-CLIP (3rd-party, PaddlePaddle)[[code](https://github.com/Zasder3/train-CLIP)] 
+- Paddle-CLIP (3rd-party, PaddlePaddle) [[code](https://github.com/Zasder3/train-CLIP)] 
 
 ## Applications
 
@@ -27,4 +27,4 @@ This repo collects the resources of CLIP (Contrastive Language-Image Pre-Trainin
 
 
 ## Acknowledgment
-Thanks for the template from [Awesome Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer).
+[Awesome Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer).
