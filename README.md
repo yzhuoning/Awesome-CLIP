@@ -7,6 +7,7 @@ This repo collects the research resources of CLIP (Contrastive Language-Image Pr
 - Multimodal Neurons in Artificial Neural Networks [[blog](https://openai.com/blog/multimodal-neurons/)]
 
 ## Training
+- OpenCLIP (3rd-party, PyTorch) [[code](https://github.com/mlfoundations/open_clip)]  
 - Train-CLIP (3rd-party, PyTorch) [[code](https://github.com/Zasder3/train-CLIP)] 
 - Paddle-CLIP (3rd-party, PaddlePaddle) [[code](https://github.com/Zasder3/train-CLIP)] 
 
