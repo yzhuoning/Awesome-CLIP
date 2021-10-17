@@ -34,7 +34,7 @@ This repo collects the research resources of CLIP (Contrastive Language-Image Pr
 ### Image Captioning
 - CLIP prefix captioning [[code](https://github.com/rmokady/CLIP_prefix_caption)]
 
-### Text-to-Image Generation
+### Text-to-3D Generation
 - CLIP-Forge: Towards Zero-Shot Text-to-Shape Generation, [[paper](https://arxiv.org/pdf/2110.02624.pdf)]
 
 ### Others
