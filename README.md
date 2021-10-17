@@ -19,7 +19,7 @@ This repo collects the research resources of CLIP (Contrastive Language-Image Pr
 - StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery [[paper](https://arxiv.org/abs/2103.17249)][[code](https://github.com/orpatashnik/StyleCLIP)]
 - CLIP Guided Diffusion [[code](https://github.com/afiaka87/clip-guided-diffusion)] 
 
-### Detection
+### Object Detection
 - Roboflow Zero-shot Object Tracking [[code](https://github.com/roboflow-ai/zero-shot-object-tracking)] 
 - Zero-Shot Detection via Vision and Language Knowledge Distillation [[paper](https://arxiv.org/abs/2104.13921)][[code*](https://github.com/llrtt/Zero-Shot-Detection-via-Vision-and-Language-Knowledge-Distillation)]
 
@@ -31,11 +31,15 @@ This repo collects the research resources of CLIP (Contrastive Language-Image Pr
 ### Video Understanding
 - VideoCLIP: Contrastive Pre-training for Zero-shot Video-Text Understanding [[code]()]
 
+### Image Captioning
+- CLIP prefix captioning [[code](https://github.com/rmokady/CLIP_prefix_caption)]
+
+### Text-to-Image Generation
+- CLIP-Forge: Towards Zero-Shot Text-to-Shape Generation, [[paper](https://arxiv.org/pdf/2110.02624.pdf)]
+
 ### Others
 - Multilingual-CLIP [[code](https://github.com/FreddeFrallan/Multilingual-CLIP)]
 - CLIP (With Haiku + Jax!) [[code](https://github.com/kingoflolz/CLIP_JAX)]
-- OpenCLIP [[code](https://github.com/mlfoundations/open_clip)] 
-
 
 ## Acknowledgment
 [Awesome Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
