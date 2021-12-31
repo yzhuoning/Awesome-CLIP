@@ -18,6 +18,7 @@ This repo collects the research resources of CLIP (Contrastive Language-Image Pr
 - VQGAN-CLIP [[code](https://github.com/nerdyrodent/VQGAN-CLIP)]
 - StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery [[paper](https://arxiv.org/abs/2103.17249)][[code](https://github.com/orpatashnik/StyleCLIP)]
 - CLIP Guided Diffusion [[code](https://github.com/afiaka87/clip-guided-diffusion)] 
+- CLIP2StyleGAN: Unsupervised Extraction of StyleGAN Edit Directions [[paper]](https://arxiv.org/abs/2112.05219)
 
 ### Object Detection
 - Roboflow Zero-shot Object Tracking [[code](https://github.com/roboflow-ai/zero-shot-object-tracking)] 
@@ -34,12 +35,24 @@ This repo collects the research resources of CLIP (Contrastive Language-Image Pr
 ### Image Captioning
 - CLIP prefix captioning [[code](https://github.com/rmokady/CLIP_prefix_caption)]
 
+### Image Editing 
+- HairCLIP: Design Your Hair by Text and Reference Image [[code]](https://github.com/wty-ustc/HairCLIP)
+- Crop-CLIP [[code]](https://github.com/vijishmadhavan/Crop-CLIP )
+- CLIPstyler: Image Style Transfer with a Single Text Condition [[code]](https://github.com/paper11667/CLIPstyler)
+
 ### Text-to-3D Generation
 - CLIP-Forge: Towards Zero-Shot Text-to-Shape Generation, [[paper](https://arxiv.org/pdf/2110.02624.pdf)]
+
+### Representation Learning
+- Wav2CLIP: Learning Robust Audio Representations From CLIP[[code]](https://github.com/descriptinc/lyrebird-Wav2CLIP)
+- CLIP-Lite: Information Efficient Visual Representation Learning from Textual Annotation [[paper]](https://arxiv.org/abs/2112.07133)
+- RgionCLIP: Region-based Language-Image Pretraining [[Paper]](https://arxiv.org/pdf/2112.09106.pdf)
+- CMA-CLIP: Cross-Modality Attention CLIP for Image-Text Classification [[paper]](https://arxiv.org/abs/2112.03562)
 
 ### Others
 - Multilingual-CLIP [[code](https://github.com/FreddeFrallan/Multilingual-CLIP)]
 - CLIP (With Haiku + Jax!) [[code](https://github.com/kingoflolz/CLIP_JAX)]
+
 
 ## Acknowledgment
 [Awesome Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
