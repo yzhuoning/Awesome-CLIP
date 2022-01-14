@@ -52,6 +52,7 @@ This repo collects the research resources of CLIP (Contrastive Language-Image Pr
 ### Others
 - Multilingual-CLIP [[code](https://github.com/FreddeFrallan/Multilingual-CLIP)]
 - CLIP (With Haiku + Jax!) [[code](https://github.com/kingoflolz/CLIP_JAX)]
+- CLIP-Event: Connecting Text and Images with Event Structures [[paper]](https://arxiv.org/abs/2201.05078)[[code]](https://github.com/limanling/clip-event)
 
 
 ## Acknowledgment
