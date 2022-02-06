@@ -57,5 +57,5 @@ This repo collects the research resources of CLIP (Contrastive Language-Image Pr
 
 
 ## Acknowledgment
-Idea from [Awesome Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
+Inspired by [Awesome Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
 
