@@ -19,6 +19,7 @@ This repo collects the research resources of CLIP (Contrastive Language-Image Pr
 - StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery [[paper](https://arxiv.org/abs/2103.17249)][[code](https://github.com/orpatashnik/StyleCLIP)]
 - CLIP Guided Diffusion [[code](https://github.com/afiaka87/clip-guided-diffusion)] 
 - CLIP2StyleGAN: Unsupervised Extraction of StyleGAN Edit Directions [[paper]](https://arxiv.org/abs/2112.05219)
+- TargetCLIP:Image-Based CLIP-Guided Essence Transfer  [[paper](https://arxiv.org/abs/2110.12427)][[code](https://github.innominds.com/hila-chefer/TargetCLIP)]
 
 ### Object Detection
 - Roboflow Zero-shot Object Tracking [[code](https://github.com/roboflow-ai/zero-shot-object-tracking)] 
@@ -28,6 +29,7 @@ This repo collects the research resources of CLIP (Contrastive Language-Image Pr
 - Unsplash Image Search [[code](https://github.com/haltakov/natural-language-image-search)]
 - CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval [[paper](https://arxiv.org/abs/2104.08860)][[code](https://github.com/ArrowLuo/CLIP4Clip)]
 - Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling [[paper](https://arxiv.org/abs/2102.06183)][[code](https://github.com/jayleicn/ClipBERT)]
+- Natural Language YouTube Search [[code](https://github.com/haltakov/natural-language-youtube-search)]
 
 ### Video Understanding
 - VideoCLIP: Contrastive Pre-training for Zero-shot Video-Text Understanding [[code]()]
@@ -55,6 +57,7 @@ This repo collects the research resources of CLIP (Contrastive Language-Image Pr
 - CLIP-Event: Connecting Text and Images with Event Structures [[paper]](https://arxiv.org/abs/2201.05078)[[code]](https://github.com/limanling/clip-event)
 - How Much Can CLIP Benefit Vision-and-Language Tasks? [[Paper]](https://openreview.net/forum?id=zf_Ll3HZWgy)
 - Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm (DeCLIP) [[Paper]](https://arxiv.org/abs/2110.05208)[[code]](https://github.com/Sense-GVT/DeCLIP)
+- 
 
 
 ## Acknowledgment
