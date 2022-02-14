@@ -41,6 +41,7 @@ This repo collects the research resources of CLIP (Contrastive Language-Image Pr
 - HairCLIP: Design Your Hair by Text and Reference Image [[code](https://github.com/wty-ustc/HairCLIP)]
 - Crop-CLIP [[code](https://github.com/vijishmadhavan/Crop-CLIP)]
 - CLIPstyler: Image Style Transfer with a Single Text Condition [[code](https://github.com/paper11667/CLIPstyler)]
+- CLIPasso: Semantically-Aware Object Sketching [[paper](https://clipasso.github.io/clipasso/static/source/paper_CLIPasso_Semantically_Aware_Object_Sketching.pdf)][[code](https://clipasso.github.io/clipasso/)]
 
 ### Text-to-3D Generation
 - CLIP-Forge: Towards Zero-Shot Text-to-Shape Generation, [[paper](https://arxiv.org/pdf/2110.02624.pdf)]
