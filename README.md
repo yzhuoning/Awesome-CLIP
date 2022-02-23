@@ -26,6 +26,8 @@ This repo collects the research resources of CLIP (Contrastive Language-Image Pr
 - Zero-Shot Detection via Vision and Language Knowledge Distillation [[paper](https://arxiv.org/abs/2104.13921)][[code*](https://github.com/llrtt/Zero-Shot-Detection-via-Vision-and-Language-Knowledge-Distillation)]
 - Crop-CLIP [[code](https://github.com/vijishmadhavan/Crop-CLIP)]
 - Detic: Detecting Twenty-thousand Classes using Image-level Supervision [[paper](https://arxiv.org/abs/2201.02605)][[code](https://github.com/facebookresearch/Detic)] 
+- CLIP-TD: CLIP Targeted Distillation for Vision-Language Tasks [[paper](https://arxiv.org/abs/2201.05729)]
+- SLIP: Self-supervision meets Language-Image Pre-training [[paper](https://arxiv.org/abs/2112.12750)][[code](https://github.com/facebookresearch/SLIP)]
 
 ### Information Retrieval
 - Unsplash Image Search [[code](https://github.com/haltakov/natural-language-image-search)]
@@ -38,6 +40,7 @@ This repo collects the research resources of CLIP (Contrastive Language-Image Pr
 
 ### Image Captioning
 - CLIP prefix captioning [[code](https://github.com/rmokady/CLIP_prefix_caption)]
+- CLIPScore: A Reference-free Evaluation Metric for Image Captioning [[paper](https://arxiv.org/abs/2104.08718)]
 
 ### Image Editing 
 - HairCLIP: Design Your Hair by Text and Reference Image [[code](https://github.com/wty-ustc/HairCLIP)]
@@ -59,9 +62,10 @@ This repo collects the research resources of CLIP (Contrastive Language-Image Pr
 - CLIP (With Haiku + Jax!) [[code](https://github.com/kingoflolz/CLIP_JAX)]
 - CLIP-Event: Connecting Text and Images with Event Structures [[paper](https://arxiv.org/abs/2201.05078)][[code](https://github.com/limanling/clip-event)]
 - How Much Can CLIP Benefit Vision-and-Language Tasks? [[Paper](https://openreview.net/forum?id=zf_Ll3HZWgy)]
-- Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm (DeCLIP) [[Paper](https://arxiv.org/abs/2110.05208)][[code](https://github.com/Sense-GVT/DeCLIP)]
+- DeCLIP: Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm [[Paper](https://arxiv.org/abs/2110.05208)][[code](https://github.com/Sense-GVT/DeCLIP)]
 
 
 ## Acknowledgment
-Inspired by [Awesome Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
+Inspired by [Awesome Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer).  
+
 
