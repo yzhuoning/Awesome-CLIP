@@ -24,6 +24,8 @@ This repo collects the research resources of CLIP (Contrastive Language-Image Pr
 ### Object Detection
 - Roboflow Zero-shot Object Tracking [[code](https://github.com/roboflow-ai/zero-shot-object-tracking)] 
 - Zero-Shot Detection via Vision and Language Knowledge Distillation [[paper](https://arxiv.org/abs/2104.13921)][[code*](https://github.com/llrtt/Zero-Shot-Detection-via-Vision-and-Language-Knowledge-Distillation)]
+- Crop-CLIP [[code](https://github.com/vijishmadhavan/Crop-CLIP)]
+- Detic: Detecting Twenty-thousand Classes using Image-level Supervision [[paper](https://arxiv.org/abs/2201.02605)][[code](https://github.com/facebookresearch/Detic)] 
 
 ### Information Retrieval
 - Unsplash Image Search [[code](https://github.com/haltakov/natural-language-image-search)]
@@ -39,12 +41,12 @@ This repo collects the research resources of CLIP (Contrastive Language-Image Pr
 
 ### Image Editing 
 - HairCLIP: Design Your Hair by Text and Reference Image [[code](https://github.com/wty-ustc/HairCLIP)]
-- Crop-CLIP [[code](https://github.com/vijishmadhavan/Crop-CLIP)]
 - CLIPstyler: Image Style Transfer with a Single Text Condition [[code](https://github.com/paper11667/CLIPstyler)]
 - CLIPasso: Semantically-Aware Object Sketching [[paper](https://clipasso.github.io/clipasso/static/source/paper_CLIPasso_Semantically_Aware_Object_Sketching.pdf)][[code](https://clipasso.github.io/clipasso/)]
 
 ### Text-to-3D Generation
-- CLIP-Forge: Towards Zero-Shot Text-to-Shape Generation, [[paper](https://arxiv.org/pdf/2110.02624.pdf)]
+- CLIP-Forge: Towards Zero-Shot Text-to-Shape Generation [[paper](https://arxiv.org/pdf/2110.02624.pdf)]
+- Text2Mesh: Text-Driven Neural Stylization for Meshes [[paper](https://arxiv.org/abs/2112.03221)][[code](https://github.com/threedle/text2mesh)]
 
 ### Representation Learning
 - Wav2CLIP: Learning Robust Audio Representations From CLIP [[code](https://github.com/descriptinc/lyrebird-Wav2CLIP)]
