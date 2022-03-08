@@ -44,7 +44,7 @@ This repo collects the research resources of CLIP (Contrastive Language-Image Pr
 
 ### Image Editing 
 - HairCLIP: Design Your Hair by Text and Reference Image [[code](https://github.com/wty-ustc/HairCLIP)]
-- CLIPstyler: Image Style Transfer with a Single Text Condition [[code](https://github.com/paper11667/CLIPstyler)]
+- CLIPstyler: Image Style Transfer with a Single Text Condition [[paper](https://arxiv.org/pdf/2112.00374.pdf)][[code](https://github.com/paper11667/CLIPstyler)]
 - CLIPasso: Semantically-Aware Object Sketching [[paper](https://clipasso.github.io/clipasso/static/source/paper_CLIPasso_Semantically_Aware_Object_Sketching.pdf)][[code](https://clipasso.github.io/clipasso/)]
 
 ### Text-to-3D Generation
@@ -57,6 +57,8 @@ This repo collects the research resources of CLIP (Contrastive Language-Image Pr
 - CLIP-Lite: Information Efficient Visual Representation Learning from Textual Annotation [[paper](https://arxiv.org/abs/2112.07133)]
 - RgionCLIP: Region-based Language-Image Pretraining [[Paper](https://arxiv.org/pdf/2112.09106.pdf)]
 - CMA-CLIP: Cross-Modality Attention CLIP for Image-Text Classification [[paper](https://arxiv.org/abs/2112.03562)]
+- DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting [[paper](https://arxiv.org/pdf/2112.01518.pdf)][[code](https://github.com/raoyongming/DenseCLIP)]
+
 
 ### 3D Recognition
 - PointCLIP: Point Cloud Understanding by CLIP [[Paper](https://arxiv.org/pdf/2112.02413.pdf)][[code](https://github.com/zrrskywalker/pointclip)]
