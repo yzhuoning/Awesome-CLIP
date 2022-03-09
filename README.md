@@ -51,6 +51,8 @@ This repo collects the research resources of CLIP (Contrastive Language-Image Pr
 - CLIP-Forge: Towards Zero-Shot Text-to-Shape Generation [[paper](https://arxiv.org/pdf/2110.02624.pdf)]
 - Text2Mesh: Text-Driven Neural Stylization for Meshes [[paper](https://arxiv.org/abs/2112.03221)][[code](https://github.com/threedle/text2mesh)]
 - CLIP-GEN: Language-Free Training of a Text-to-Image Generator with CLIP [[paper](https://arxiv.org/pdf/2203.00386.pdf)]
+- CLIPDraw: Exploring Text-to-Drawing Synthesis through Language-Image Encoders [[paper](https://arxiv.org/pdf/2106.14843.pdf)]
+- CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields [[paper](https://arxiv.org/pdf/2112.05139.pdf)][[code](https://github.com/cassiePython/CLIPNeRF)]
 
 ### Representation Learning
 - Wav2CLIP: Learning Robust Audio Representations From CLIP [[code](https://github.com/descriptinc/lyrebird-Wav2CLIP)]
