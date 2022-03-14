@@ -69,9 +69,9 @@ This repo collects the research resources of CLIP (Contrastive Language-Image Pr
 - Multilingual-CLIP [[code](https://github.com/FreddeFrallan/Multilingual-CLIP)]
 - CLIP (With Haiku + Jax!) [[code](https://github.com/kingoflolz/CLIP_JAX)]
 - CLIP-Event: Connecting Text and Images with Event Structures [[paper](https://arxiv.org/abs/2201.05078)][[code](https://github.com/limanling/clip-event)]
-- How Much Can CLIP Benefit Vision-and-Language Tasks? [[Paper](https://openreview.net/forum?id=zf_Ll3HZWgy)]
-- DeCLIP: Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm [[Paper](https://arxiv.org/abs/2110.05208)][[code](https://github.com/Sense-GVT/DeCLIP)]
-
+- How Much Can CLIP Benefit Vision-and-Language Tasks? [[paper](https://openreview.net/forum?id=zf_Ll3HZWgy)]
+- DeCLIP: Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm [[paper](https://arxiv.org/abs/2110.05208)][[code](https://github.com/Sense-GVT/DeCLIP)]
+- Democratizing Contrastive Language-Image Pre-training: A CLIP Benchmark of Data, Model, and Supervision [[paper](https://arxiv.org/pdf/2203.05796v1.pdf)][[code](https://github.com/sense-gvt/declip)]
 
 ## Acknowledgment
 Inspired by [Awesome Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer).  
