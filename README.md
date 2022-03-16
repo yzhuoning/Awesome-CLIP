@@ -62,9 +62,12 @@ This repo collects the research resources of CLIP (Contrastive Language-Image Pr
 - CMA-CLIP: Cross-Modality Attention CLIP for Image-Text Classification [[paper](https://arxiv.org/abs/2112.03562)]
 - DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting [[paper](https://arxiv.org/pdf/2112.01518.pdf)][[code](https://github.com/raoyongming/DenseCLIP)]
 
-
 ### 3D Recognition
 - PointCLIP: Point Cloud Understanding by CLIP [[Paper](https://arxiv.org/pdf/2112.02413.pdf)][[code](https://github.com/zrrskywalker/pointclip)]
+
+### Language Tasks
+- CLIP Models are Few-shot Learners: Empirical Studies on VQA and Visual Entailment [[paper](https://arxiv.org/pdf/2203.07190v1.pdf)]
+
 
 ### Others
 - Multilingual-CLIP [[code](https://github.com/FreddeFrallan/Multilingual-CLIP)]
