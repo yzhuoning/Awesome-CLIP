@@ -1,5 +1,5 @@
 # Awesome CLIP 
-This repo collects the research resources of CLIP (Contrastive Language-Image Pre-Training) proposed by OpenAI. If you would like to contribute, please open issues or pull requests. 
+This repo collects the research resources of CLIP (Contrastive Language-Image Pre-Training) proposed by OpenAI. If you would like to contribute, please open issues.
 
 ## CLIP 
 - Learning Transferable Visual Models From Natural Language Supervision [[paper](https://arxiv.org/abs/2103.00020)][[code](https://github.com/openai/CLIP)]
@@ -23,7 +23,7 @@ This repo collects the research resources of CLIP (Contrastive Language-Image Pr
 
 ### Object Detection
 - Roboflow Zero-shot Object Tracking [[code](https://github.com/roboflow-ai/zero-shot-object-tracking)] 
-- Zero-Shot Detection via Vision and Language Knowledge Distillation [[paper](https://arxiv.org/abs/2104.13921)][[code*](https://github.com/llrtt/Zero-Shot-Detection-via-Vision-and-Language-Knowledge-Distillation)]
+- Zero-Shot Detection via Vision and Language Knowledge Distillation [[paper](https://arxiv.org/abs/2104.13921)][[code](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild)]
 - Crop-CLIP [[code](https://github.com/vijishmadhavan/Crop-CLIP)]
 - Detic: Detecting Twenty-thousand Classes using Image-level Supervision [[paper](https://arxiv.org/abs/2201.02605)][[code](https://github.com/facebookresearch/Detic)] 
 - CLIP-TD: CLIP Targeted Distillation for Vision-Language Tasks [[paper](https://arxiv.org/abs/2201.05729)]
@@ -68,7 +68,6 @@ This repo collects the research resources of CLIP (Contrastive Language-Image Pr
 
 ### Language Tasks
 - CLIP Models are Few-shot Learners: Empirical Studies on VQA and Visual Entailment [[paper](https://arxiv.org/pdf/2203.07190v1.pdf)]
-
 
 ### Others
 - Multilingual-CLIP [[code](https://github.com/FreddeFrallan/Multilingual-CLIP)]
