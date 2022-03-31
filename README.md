@@ -35,9 +35,10 @@ This repo collects the research resources of CLIP (Contrastive Language-Image Pr
 - Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling [[paper](https://arxiv.org/abs/2102.06183)][[code](https://github.com/jayleicn/ClipBERT)]
 - Natural Language YouTube Search [[code](https://github.com/haltakov/natural-language-youtube-search)]
 - CLIP-as-service: Embed images and sentences into fixed-length vectors with CLIP [[doc](https://github.com/jina-ai/clip-as-service/tree/main/docs)][[code](https://github.com/jina-ai/clip-as-service)]
+- clip-retrieval [[code](https://github.com/rom1504/clip-retrieval)]
 
 ### Video Understanding
-- VideoCLIP: Contrastive Pre-training for Zero-shot Video-Text Understanding [[code]()]
+- VideoCLIP: Contrastive Pre-training for Zero-shot Video-Text Understanding [[code](https://github.com/pytorch/fairseq/tree/main/examples/MMPT)]
 
 ### Image Captioning
 - CLIP prefix captioning [[code](https://github.com/rmokady/CLIP_prefix_caption)]
