@@ -21,7 +21,7 @@ This repo collects the research resources based on CLIP (Contrastive Language-Im
 - CLIP2StyleGAN: Unsupervised Extraction of StyleGAN Edit Directions [[paper](https://arxiv.org/abs/2112.05219)]
 - TargetCLIP: Image-Based CLIP-Guided Essence Transfer  [[paper](https://arxiv.org/abs/2110.12427)][[code](https://github.innominds.com/hila-chefer/TargetCLIP)]
 - DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation [[paper](https://arxiv.org/pdf/2110.02711.pdf)][[code](https://github.com/gwang-kim/DiffusionCLIP)]
-- 
+
 ### Object Detection
 - Roboflow Zero-shot Object Tracking [[code](https://github.com/roboflow-ai/zero-shot-object-tracking)] 
 - Zero-Shot Detection via Vision and Language Knowledge Distillation [[paper](https://arxiv.org/abs/2104.13921)][[code](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild)]
