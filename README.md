@@ -68,7 +68,6 @@ This repo collects the research resources based on CLIP (Contrastive Language-Im
 
 ### 3D Recognition
 - PointCLIP: Point Cloud Understanding by CLIP [[Paper](https://arxiv.org/pdf/2112.02413.pdf)][[code](https://github.com/zrrskywalker/pointclip)]
-CLIP on Wheels: Zero-Shot Object Navigation as Object Localization and Exploration
 
 ### Language Tasks
 - CLIP Models are Few-shot Learners: Empirical Studies on VQA and Visual Entailment [[paper](https://arxiv.org/pdf/2203.07190v1.pdf)]
