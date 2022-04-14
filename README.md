@@ -29,6 +29,7 @@ This repo collects the research resources based on CLIP (Contrastive Language-Im
 - Detic: Detecting Twenty-thousand Classes using Image-level Supervision [[paper](https://arxiv.org/abs/2201.02605)][[code](https://github.com/facebookresearch/Detic)] 
 - CLIP-TD: CLIP Targeted Distillation for Vision-Language Tasks [[paper](https://arxiv.org/abs/2201.05729)]
 - SLIP: Self-supervision meets Language-Image Pre-training [[paper](https://arxiv.org/abs/2112.12750)][[code](https://github.com/facebookresearch/SLIP)]
+- ReCLIP: A Strong Zero-Shot Baseline for Referring Expression Comprehension [[paper](https://arxiv.org/pdf/2204.05991.pdf)][[code](https://github.com/allenai/reclip)]  
 
 ### Information Retrieval
 - Unsplash Image Search [[code](https://github.com/haltakov/natural-language-image-search)]
@@ -75,6 +76,8 @@ This repo collects the research resources based on CLIP (Contrastive Language-Im
 ### Object Navigation
 - CLIP on Wheels: Zero-Shot Object Navigation as Object Localization and Exploration [[paper](https://arxiv.org/pdf/2203.10421.pdf)]
 
+### Audio
+- AudioCLIP: Extending CLIP to Image, Text and Audio [[code](https://github.com/AndreyGuzhov/AudioCLIP)]
 
 ### Others
 - Multilingual-CLIP [[code](https://github.com/FreddeFrallan/Multilingual-CLIP)]
