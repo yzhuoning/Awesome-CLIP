@@ -83,6 +83,10 @@ This repo collects the research resources based on CLIP (Contrastive Language-Im
 - Big Sleep: A simple command line tool for text to image generation [[code](https://github.com/lucidrains/big-sleep)]
 - Deep Daze: A simple command line tool for text to image generation [[code](https://github.com/lucidrains/deep-daze)]
 
+### Localization
+- Adapting CLIP For Phrase Localization Without Further Training [[paper](https://arxiv.org/pdf/2204.03647.pdf)][[code](https://github.com/pals-ttic/adapting-CLIP)]
+
+
 ### Others
 - Multilingual-CLIP [[code](https://github.com/FreddeFrallan/Multilingual-CLIP)]
 - CLIP (With Haiku + Jax!) [[code](https://github.com/kingoflolz/CLIP_JAX)]
