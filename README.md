@@ -38,19 +38,16 @@ This repo collects the research resources based on CLIP (Contrastive Language-Im
 - Natural Language YouTube Search [[code](https://github.com/haltakov/natural-language-youtube-search)]
 - CLIP-as-service: Embed images and sentences into fixed-length vectors with CLIP [[doc](https://github.com/jina-ai/clip-as-service/tree/main/docs)][[code](https://github.com/jina-ai/clip-as-service)]
 - clip-retrieval [[code](https://github.com/rom1504/clip-retrieval)]
+- A CLIP-Hitchhiker’s Guide to Long Video Retrieval [[paper](https://arxiv.org/pdf/2205.08508.pdf)][code]()]
+- CLIP2Video: Mastering Video-Text Retrieval via Image CLIP [[paper](https://arxiv.org/pdf/2106.11097.pdf)][[code](https://github.com/CryhanFang/CLIP2Video)]
 
-### Video Understanding
-- VideoCLIP: Contrastive Pre-training for Zero-shot Video-Text Understanding [[code](https://github.com/pytorch/fairseq/tree/main/examples/MMPT)]
-- FitCLIP: Refining Large-Scale Pretrained Image-Text Models for Zero-Shot Video Understanding Tasks  [[paper](https://arxiv.org/pdf/2203.13371.pdf)][[code](https://github.com/bryant1410/fitclip)]
-
-### Image Captioning
-- CLIP prefix captioning [[code](https://github.com/rmokady/CLIP_prefix_caption)]
-- CLIPScore: A Reference-free Evaluation Metric for Image Captioning [[paper](https://arxiv.org/abs/2104.08718)]
-
-### Image Editing 
-- HairCLIP: Design Your Hair by Text and Reference Image [[code](https://github.com/wty-ustc/HairCLIP)]
-- CLIPstyler: Image Style Transfer with a Single Text Condition [[paper](https://arxiv.org/pdf/2112.00374.pdf)][[code](https://github.com/paper11667/CLIPstyler)]
-- CLIPasso: Semantically-Aware Object Sketching [[paper](https://clipasso.github.io/clipasso/static/source/paper_CLIPasso_Semantically_Aware_Object_Sketching.pdf)][[code](https://clipasso.github.io/clipasso/)]
+### Representation Learning
+- Wav2CLIP: Learning Robust Audio Representations From CLIP [[code](https://github.com/descriptinc/lyrebird-Wav2CLIP)]
+- CLIP-Lite: Information Efficient Visual Representation Learning from Textual Annotation [[paper](https://arxiv.org/abs/2112.07133)]
+- RgionCLIP: Region-based Language-Image Pretraining [[paper](https://arxiv.org/pdf/2112.09106.pdf)]
+- CMA-CLIP: Cross-Modality Attention CLIP for Image-Text Classification [[paper](https://arxiv.org/abs/2112.03562)]
+- DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting [[paper](https://arxiv.org/pdf/2112.01518.pdf)][[code](https://github.com/raoyongming/DenseCLIP)]
+- CyCLIP: Cyclic Contrastive Language-Image Pretraining [[paper](https://arxiv.org/pdf/2205.14459v1.pdf)][[code](https://github.com/goel-shashank/CyCLIP)]
 
 ### Text-to-3D Generation
 - CLIP-Forge: Towards Zero-Shot Text-to-Shape Generation [[paper](https://arxiv.org/pdf/2110.02624.pdf)]
@@ -59,13 +56,32 @@ This repo collects the research resources based on CLIP (Contrastive Language-Im
 - CLIPDraw: Exploring Text-to-Drawing Synthesis through Language-Image Encoders [[paper](https://arxiv.org/pdf/2106.14843.pdf)]
 - CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields [[paper](https://arxiv.org/pdf/2112.05139.pdf)][[code](https://github.com/cassiePython/CLIPNeRF)]
 - MotionCLIP: Exposing Human Motion Generation to CLIP Space [[paper](https://arxiv.org/pdf/2203.08063.pdf)][[code](https://github.com/GuyTevet/MotionCLIP)]
+- AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars [[paper](https://arxiv.org/pdf/2205.08535.pdf)][[code](https://github.com/hongfz16/AvatarCLIP)]
 
-### Representation Learning
-- Wav2CLIP: Learning Robust Audio Representations From CLIP [[code](https://github.com/descriptinc/lyrebird-Wav2CLIP)]
-- CLIP-Lite: Information Efficient Visual Representation Learning from Textual Annotation [[paper](https://arxiv.org/abs/2112.07133)]
-- RgionCLIP: Region-based Language-Image Pretraining [[Paper](https://arxiv.org/pdf/2112.09106.pdf)]
-- CMA-CLIP: Cross-Modality Attention CLIP for Image-Text Classification [[paper](https://arxiv.org/abs/2112.03562)]
-- DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting [[paper](https://arxiv.org/pdf/2112.01518.pdf)][[code](https://github.com/raoyongming/DenseCLIP)]
+### Text-to-Image Generation
+- Big Sleep: A simple command line tool for text to image generation [[code](https://github.com/lucidrains/big-sleep)]
+- Deep Daze: A simple command line tool for text to image generation [[code](https://github.com/lucidrains/deep-daze)]
+- CLIP-CLOP: CLIP-Guided Collage and Photomontage [[paper](https://arxiv.org/pdf/2205.03146v2.pdf)][[code](https://github.com/deepmind/arnheim)]
+
+### Prompt Learning
+- Learning to Prompt for Vision-Language Models [[paper](https://arxiv.org/abs/2109.01134.pdf)][[code](https://github.com/KaiyangZhou/CoOp)]
+- Conditional Prompt Learning for Vision-Language Models [[paper](https://arxiv.org/abs/2203.05557.pdf)][[code](https://github.com/KaiyangZhou/CoOp)]
+- Prompt-aligned Gradient for Prompt Tuning [[paper](https://arxiv.org/abs/2205.14865.pdf)][[code](https://github.com/BeierZhu/Prompt-align)]
+- CLIP-Adapter: Better Vision-Language Models with Feature Adapters [[paper](https://arxiv.org/abs/2110.04544.pdf)][[code](https://github.com/gaopengcuhk/CLIP-Adapter)]
+
+### Video Understanding
+- VideoCLIP: Contrastive Pre-training for Zero-shot Video-Text Understanding [[code](https://github.com/pytorch/fairseq/tree/main/examples/MMPT)]
+- FitCLIP: Refining Large-Scale Pretrained Image-Text Models for Zero-Shot Video Understanding Tasks  [[paper](https://arxiv.org/pdf/2203.13371.pdf)][[code](https://github.com/bryant1410/fitclip)]
+
+### Image Captioning
+- CLIP prefix captioning [[code](https://github.com/rmokady/CLIP_prefix_caption)]
+- CLIPScore: A Reference-free Evaluation Metric for Image Captioning [[paper](https://arxiv.org/abs/2104.08718)]
+- ClipCap: CLIP Prefix for Image Captioning [[paper](https://arxiv.org/pdf/2111.09734v1.pdf)][[code](https://github.com/rmokady/CLIP_prefix_caption)]
+
+### Image Editing 
+- HairCLIP: Design Your Hair by Text and Reference Image [[code](https://github.com/wty-ustc/HairCLIP)]
+- CLIPstyler: Image Style Transfer with a Single Text Condition [[paper](https://arxiv.org/pdf/2112.00374.pdf)][[code](https://github.com/paper11667/CLIPstyler)]
+- CLIPasso: Semantically-Aware Object Sketching [[paper](https://clipasso.github.io/clipasso/static/source/paper_CLIPasso_Semantically_Aware_Object_Sketching.pdf)][[code](https://clipasso.github.io/clipasso/)]
 
 ### 3D Recognition
 - PointCLIP: Point Cloud Understanding by CLIP [[Paper](https://arxiv.org/pdf/2112.02413.pdf)][[code](https://github.com/zrrskywalker/pointclip)]
@@ -79,13 +95,8 @@ This repo collects the research resources based on CLIP (Contrastive Language-Im
 ### Audio
 - AudioCLIP: Extending CLIP to Image, Text and Audio [[code](https://github.com/AndreyGuzhov/AudioCLIP)]
 
-### Text-to-Image Generation
-- Big Sleep: A simple command line tool for text to image generation [[code](https://github.com/lucidrains/big-sleep)]
-- Deep Daze: A simple command line tool for text to image generation [[code](https://github.com/lucidrains/deep-daze)]
-
 ### Localization
 - Adapting CLIP For Phrase Localization Without Further Training [[paper](https://arxiv.org/pdf/2204.03647.pdf)][[code](https://github.com/pals-ttic/adapting-CLIP)]
-
 
 ### Others
 - Multilingual-CLIP [[code](https://github.com/FreddeFrallan/Multilingual-CLIP)]
