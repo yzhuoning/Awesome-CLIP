@@ -50,9 +50,9 @@ This repo collects the research resources based on CLIP (Contrastive Language-Im
 - CyCLIP: Cyclic Contrastive Language-Image Pretraining [[paper](https://arxiv.org/pdf/2205.14459v1.pdf)][[code](https://github.com/goel-shashank/CyCLIP)]
 
 ### Text-to-3D Generation
-- CLIP-Forge: Towards Zero-Shot Text-to-Shape Generation [[paper](https://arxiv.org/pdf/2110.02624.pdf)]
+- CLIP-Forge: Towards Zero-Shot Text-to-Shape Generation [[paper](https://arxiv.org/pdf/2110.02624.pdf)] [[code](https://github.com/autodeskailab/clip-forge)]
 - Text2Mesh: Text-Driven Neural Stylization for Meshes [[paper](https://arxiv.org/abs/2112.03221)][[code](https://github.com/threedle/text2mesh)]
-- CLIP-GEN: Language-Free Training of a Text-to-Image Generator with CLIP [[paper](https://arxiv.org/pdf/2203.00386.pdf)]
+- CLIP-GEN: Language-Free Training of a Text-to-Image Generator with CLIP [[paper](https://arxiv.org/pdf/2203.00386.pdf)] [[3rd-party code](https://github.com/HFAiLab/clip-gen)]
 - CLIPDraw: Exploring Text-to-Drawing Synthesis through Language-Image Encoders [[paper](https://arxiv.org/pdf/2106.14843.pdf)]
 - CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields [[paper](https://arxiv.org/pdf/2112.05139.pdf)][[code](https://github.com/cassiePython/CLIPNeRF)]
 - MotionCLIP: Exposing Human Motion Generation to CLIP Space [[paper](https://arxiv.org/pdf/2203.08063.pdf)][[code](https://github.com/GuyTevet/MotionCLIP)]
@@ -75,7 +75,7 @@ This repo collects the research resources based on CLIP (Contrastive Language-Im
 
 ### Image Captioning
 - CLIP prefix captioning [[code](https://github.com/rmokady/CLIP_prefix_caption)]
-- CLIPScore: A Reference-free Evaluation Metric for Image Captioning [[paper](https://arxiv.org/abs/2104.08718)]
+- CLIPScore: A Reference-free Evaluation Metric for Image Captioning [[paper](https://arxiv.org/abs/2104.08718)] [[code](https://github.com/jmhessel/clipscore)]
 - ClipCap: CLIP Prefix for Image Captioning [[paper](https://arxiv.org/pdf/2111.09734v1.pdf)][[code](https://github.com/rmokady/CLIP_prefix_caption)]
 
 ### Image Editing 
@@ -102,7 +102,7 @@ This repo collects the research resources based on CLIP (Contrastive Language-Im
 - Multilingual-CLIP [[code](https://github.com/FreddeFrallan/Multilingual-CLIP)]
 - CLIP (With Haiku + Jax!) [[code](https://github.com/kingoflolz/CLIP_JAX)]
 - CLIP-Event: Connecting Text and Images with Event Structures [[paper](https://arxiv.org/abs/2201.05078)][[code](https://github.com/limanling/clip-event)]
-- How Much Can CLIP Benefit Vision-and-Language Tasks? [[paper](https://openreview.net/forum?id=zf_Ll3HZWgy)]
+- How Much Can CLIP Benefit Vision-and-Language Tasks? [[paper](https://openreview.net/forum?id=zf_Ll3HZWgy)] [[code](https://github.com/clip-vil/CLIP-ViL)]
 - DeCLIP: Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm [[paper](https://arxiv.org/abs/2110.05208)][[code](https://github.com/Sense-GVT/DeCLIP)]
 - Democratizing Contrastive Language-Image Pre-training: A CLIP Benchmark of Data, Model, and Supervision [[paper](https://arxiv.org/pdf/2203.05796v1.pdf)][[code](https://github.com/sense-gvt/declip)]
 - CLIP meets GamePhysics: Towards bug identification in gameplay videos using zero-shot transfer learning [[paper](https://arxiv.org/pdf/2203.11096.pdf)][[code](https://asgaardlab.github.io/CLIPxGamePhysics/)]
