@@ -44,7 +44,7 @@ This repo collects the research resources based on CLIP (Contrastive Language-Im
 ### Representation Learning
 - Wav2CLIP: Learning Robust Audio Representations From CLIP [[code](https://github.com/descriptinc/lyrebird-Wav2CLIP)]
 - CLIP-Lite: Information Efficient Visual Representation Learning from Textual Annotation [[paper](https://arxiv.org/abs/2112.07133)]
-- RgionCLIP: Region-based Language-Image Pretraining [[paper](https://arxiv.org/pdf/2112.09106.pdf)]
+- RegionCLIP: Region-based Language-Image Pretraining [[paper](https://arxiv.org/pdf/2112.09106.pdf)][[code](https://github.com/microsoft/RegionCLIP)]
 - CMA-CLIP: Cross-Modality Attention CLIP for Image-Text Classification [[paper](https://arxiv.org/abs/2112.03562)]
 - DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting [[paper](https://arxiv.org/pdf/2112.01518.pdf)][[code](https://github.com/raoyongming/DenseCLIP)]
 - CyCLIP: Cyclic Contrastive Language-Image Pretraining [[paper](https://arxiv.org/pdf/2205.14459v1.pdf)][[code](https://github.com/goel-shashank/CyCLIP)]
@@ -97,6 +97,9 @@ This repo collects the research resources based on CLIP (Contrastive Language-Im
 
 ### Localization
 - Adapting CLIP For Phrase Localization Without Further Training [[paper](https://arxiv.org/pdf/2204.03647.pdf)][[code](https://github.com/pals-ttic/adapting-CLIP)]
+
+### Segmentation
+- CLIMS: Cross Language Image Matching for Weakly Supervised Semantic Segmentation [[paper](https://arxiv.org/pdf/2203.02668.pdf)][[code](https://github.com/CVI-SZU/CLIMS)]
 
 ### Others
 - Multilingual-CLIP [[code](https://github.com/FreddeFrallan/Multilingual-CLIP)]
