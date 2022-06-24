@@ -78,6 +78,9 @@ This repo collects the research resources based on CLIP (Contrastive Language-Im
 - CLIPScore: A Reference-free Evaluation Metric for Image Captioning [[paper](https://arxiv.org/abs/2104.08718)]
 - ClipCap: CLIP Prefix for Image Captioning [[paper](https://arxiv.org/pdf/2111.09734v1.pdf)][[code](https://github.com/rmokady/CLIP_prefix_caption)]
 
+### Text Evaluation
+- ImaginE: An Imagination-Based Automatic Evaluation Metric for Natural Language Generation [[paper](https://arxiv.org/abs/2106.05970)]
+
 ### Image Editing 
 - HairCLIP: Design Your Hair by Text and Reference Image [[code](https://github.com/wty-ustc/HairCLIP)]
 - CLIPstyler: Image Style Transfer with a Single Text Condition [[paper](https://arxiv.org/pdf/2112.00374.pdf)][[code](https://github.com/paper11667/CLIPstyler)]
