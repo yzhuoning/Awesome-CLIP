@@ -72,6 +72,7 @@ This repo collects the research resources based on CLIP (Contrastive Language-Im
 ### Video Understanding
 - VideoCLIP: Contrastive Pre-training for Zero-shot Video-Text Understanding [[code](https://github.com/pytorch/fairseq/tree/main/examples/MMPT)]
 - FitCLIP: Refining Large-Scale Pretrained Image-Text Models for Zero-Shot Video Understanding Tasks  [[paper](https://arxiv.org/pdf/2203.13371.pdf)][[code](https://github.com/bryant1410/fitclip)]
+- Expanding Language-Image Pretrained Models for General Video Recognition [[paper](https://arxiv.org/abs/2208.02816)][[code](https://github.com/microsoft/VideoX/tree/master/X-CLIP)]
 
 ### Image Captioning
 - CLIP prefix captioning [[code](https://github.com/rmokady/CLIP_prefix_caption)]
