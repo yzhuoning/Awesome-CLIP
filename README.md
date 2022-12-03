@@ -9,7 +9,7 @@ This repo collects the research resources based on CLIP (Contrastive Language-Im
 ## Training
 - OpenCLIP (3rd-party, PyTorch) [[code](https://github.com/mlfoundations/open_clip)]  
 - Train-CLIP (3rd-party, PyTorch) [[code](https://github.com/Zasder3/train-CLIP)] 
-- Paddle-CLIP (3rd-party, PaddlePaddle) [[code](https://github.com/Zasder3/train-CLIP)] 
+- Paddle-CLIP (3rd-party, PaddlePaddle) [[code](https://github.com/AgentMaker/Paddle-CLIP)] 
 
 
 ## Applications
