@@ -42,6 +42,7 @@ This repo collects the research resources based on CLIP (Contrastive Language-Im
 - A CLIP-Hitchhiker’s Guide to Long Video Retrieval [[paper](https://arxiv.org/pdf/2205.08508.pdf)][code]()]
 - CLIP2Video: Mastering Video-Text Retrieval via Image CLIP [[paper](https://arxiv.org/pdf/2106.11097.pdf)][[code](https://github.com/CryhanFang/CLIP2Video)]
 - X-CLIP: End-to-End Multi-grained Contrastive Learning for Video-Text Retrieval [[paper](https://arxiv.org/pdf/2207.07285.pdf)][[code](https://github.com/xuguohai/X-CLIP)]
+- Extending CLIP for Category-to-image Retrieval in E-commerce [[paper](https://arxiv.org/abs/2112.11294)]
 
 ### Representation Learning 
 - Wav2CLIP: Learning Robust Audio Representations From CLIP [[code](https://github.com/descriptinc/lyrebird-Wav2CLIP)]
