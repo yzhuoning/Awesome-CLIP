@@ -42,7 +42,7 @@ This repo collects the research resources based on CLIP (Contrastive Language-Im
 - [A CLIP-Hitchhiker’s Guide to Long Video Retrieval](https://arxiv.org/pdf/2205.08508.pdf) [code]
 - [CLIP2Video: Mastering Video-Text Retrieval via Image CLIP](https://arxiv.org/pdf/2106.11097.pdf) [[code](https://github.com/CryhanFang/CLIP2Video)]
 - [X-CLIP: End-to-End Multi-grained Contrastive Learning for Video-Text Retrieval](https://arxiv.org/pdf/2207.07285.pdf) [[code](https://github.com/xuguohai/X-CLIP)]
-- [Extending CLIP for Category-to-image Retrieval in E-commerce](https://mariyahendriksen.github.io/files/ecir22.pdf)[[code](https://github.com/mariyahendriksen/ecir2022_category_to_image_retrieval)]
+- [Extending CLIP for Category-to-image Retrieval in E-commerce](https://mariyahendriksen.github.io/files/ecir22.pdf) [[code](https://github.com/mariyahendriksen/ecir2022_category_to_image_retrieval)]
 
 ### Representation Learning 
 - [Wav2CLIP: Learning Robust Audio Representations From CLIP](https://arxiv.org/pdf/2110.11499.pdf) [[code](https://github.com/descriptinc/lyrebird-Wav2CLIP)]
@@ -71,7 +71,7 @@ This repo collects the research resources based on CLIP (Contrastive Language-Im
 - [CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](https://arxiv.org/pdf/2112.05139.pdf) [[code](https://github.com/cassiePython/CLIPNeRF)]
 - [MotionCLIP: Exposing Human Motion Generation to CLIP Space](https://arxiv.org/pdf/2203.08063.pdf) [[code](https://github.com/GuyTevet/MotionCLIP)]
 - [AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars](https://arxiv.org/pdf/2205.08535.pdf) [[code](https://github.com/hongfz16/AvatarCLIP)]
-- [ClipFace: Text-guided Editing of Textured 3D Morphable Models](https://arxiv.org/pdf/2212.01406.pdf?)[code](https://github.com/sanonymous22/ClipFace)
+- [ClipFace: Text-guided Editing of Textured 3D Morphable Models](https://arxiv.org/pdf/2212.01406.pdf?) [[code](https://github.com/sanonymous22/ClipFace)]
 
 ### Text-to-Image Generation
 - Big Sleep: A simple command line tool for text to image generation [[code](https://github.com/lucidrains/big-sleep)]
