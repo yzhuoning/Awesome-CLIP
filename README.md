@@ -60,7 +60,7 @@ This repo collects the research resources based on CLIP (Contrastive Language-Im
 - [Learning Visual Representation from Modality-Shared Contrastive Language-Image Pre-training ](https://arxiv.org/pdf/2207.12661.pdf) [[code](https://github.com/Hxyou/MSCLIP)]
 - [Fine-tuned CLIP Models are Efficient Video Learners](https://arxiv.org/pdf/2212.03640.pdf)[[code](https://github.com/muzairkhattak/ViFi-CLIP)]
 - [MaskCLIP: Masked Self-Distillation Advances Contrastive Language-Image Pretraining](https://arxiv.org/pdf/2208.12262.pdf) [code]
-- [DeCLIP: Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm](https://arxiv.org/abs/2110.05208) [[code](https://github.com/Sense-GVT/DeCLIP)]
+- [Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm](https://arxiv.org/abs/2110.05208) [[code](https://github.com/Sense-GVT/DeCLIP)]
 - [Democratizing Contrastive Language-Image Pre-training: A CLIP Benchmark of Data, Model, and Supervision](https://arxiv.org/pdf/2203.05796v1.pdf) [[code](https://github.com/sense-gvt/declip)]
 
 ### Text-to-3D Generation
