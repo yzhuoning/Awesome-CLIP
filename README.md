@@ -88,6 +88,7 @@ This repo collects the research resources based on CLIP (Contrastive Language-Im
 
 ### Video Understanding
 - [VideoCLIP: Contrastive Pre-training for Zero-shot Video-Text Understanding](https://arxiv.org/pdf/2109.14084.pdf) [[code](https://github.com/pytorch/fairseq/tree/main/examples/MMPT)]
+- [ActionCLIP: A New Paradigm for Video Action Recognition](https://arxiv.org/abs/2109.08472) [[code](https://github.com/sallymmx/actionclip)]
 - [FitCLIP: Refining Large-Scale Pretrained Image-Text Models for Zero-Shot Video Understanding Tasks](https://arxiv.org/pdf/2203.13371.pdf) [[code](https://github.com/bryant1410/fitclip)]
 - [Frozen CLIP Models are Efficient Video Learners](https://arxiv.org/pdf/2208.03550.pdf) [[code](https://github.com/OpenGVLab/efficient-video-recognition)]
 - [Towards Real-Time Text2Video via CLIP-Guided, Pixel-Level Optimization](https://arxiv.org/pdf/2210.12826.pdf) [[code](https://github.com/pschaldenbrand/Text2Video)] 
