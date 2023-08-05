@@ -85,6 +85,7 @@ This repo collects the research resources based on CLIP (Contrastive Language-Im
 - [Prompt-aligned Gradient for Prompt Tuning](https://arxiv.org/abs/2205.14865.pdf) [[code](https://github.com/BeierZhu/Prompt-align)]
 - [CLIP-Adapter: Better Vision-Language Models with Feature Adapters](https://arxiv.org/abs/2110.04544.pdf) [[code](https://github.com/gaopengcuhk/CLIP-Adapter)]
 - [Learning to Compose Soft Prompts for Compositional Zero-Shot Learning](https://arxiv.org/abs/2204.03574) [[code](https://github.com/BatsResearch/csp)]
+- [PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization](https://arxiv.org/abs/2307.15199) [[website](https://promptstyler.github.io/)]
 
 ### Video Understanding
 - [VideoCLIP: Contrastive Pre-training for Zero-shot Video-Text Understanding](https://arxiv.org/pdf/2109.14084.pdf) [[code](https://github.com/pytorch/fairseq/tree/main/examples/MMPT)]
